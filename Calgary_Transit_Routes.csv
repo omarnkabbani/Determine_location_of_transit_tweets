@@ -1,0 +1,220 @@
+ROUTE_CATEGORY,ROUTE_SHORT_NAME,ROUTE_LONG_NAME,COMMON_NAME
+REGULAR,24,Ogden,ogden
+REGULAR,129,Dalhousie - Sage Hill,dalhousie
+REGULAR,129,Dalhousie - Sage Hill,sage hill
+BRT,305,BRT Bowness,brt bowness
+REGULAR,414,14 Street Crosstown,14 street crosstown
+REGULAR,133,Cranston Express,cranston express
+REGULAR,468,Cranston / Mahogany,cranston
+REGULAR,468,Cranston / Mahogany,mahogany
+REGULAR,153,Copperfield,copperfield
+REGULAR,62,Hidden Valley Express,hidden valley express
+REGULAR,422,Dalhousie-Montgomery,dalhousie
+REGULAR,422,Dalhousie-Montgomery,montgomery
+REGULAR,66,Lakeview,lakeview
+MAX,306,MAX Teal,max teal
+REGULAR,150,114 Avenue SE,114 avenue se
+REGULAR,13,Altadore,altadore
+REGULAR,32,Huntington/Sunridge,huntington
+REGULAR,32,Huntington/Sunridge,sunridge
+REGULAR,78,Sundance/Chaparral,sundance
+REGULAR,78,Sundance/Chaparral,chaparral
+REGULAR,117,McKenzie Towne Express,mckenzie towne express
+REGULAR,41,Lynnwood,lynnwood
+REGULAR,74,Tuscany,tuscany
+REGULAR,9,Dalhousie-Chinook,dalhousie
+REGULAR,9,Dalhousie-Chinook,chinook
+LRT,202,Blue Line,blue line
+REGULAR,402,Silverado,silverado
+REGULAR,118,Hidden Valley,hidden valley
+REGULAR,43,McKnight / Chinook,mcknight
+REGULAR,43,McKnight / Chinook,chinook
+BRT,301,BRT North,brt north
+REGULAR,22,Richmond Road,richmond road
+REGULAR,106,Southland / Deerfoot Meadows,southland
+REGULAR,106,Southland / Deerfoot Meadows,deerfoot meadows
+REGULAR,406,Auburn Bay,auburn bay
+REGULAR,12,Southwest Loop,southwest loop
+REGULAR,3,Sandstone/Elbow Drive,sandstone
+REGULAR,3,Sandstone/Elbow Drive,elbow drive
+REGULAR,6,Killarney / 26 Ave.,killarney
+REGULAR,6,Killarney / 26 Ave.,26 ave
+REGULAR,430,Sandstone / North Pointe,sandstone
+REGULAR,430,Sandstone / North Pointe,north pointe
+REGULAR,58,44 Street SE / Erin Woods,44 street se
+REGULAR,58,44 Street SE / Erin Woods,erin woods
+REGULAR,453,West Springs,west springs
+REGULAR,404,North Hill,north hill
+REGULAR,87,17 Avenue SE / Applewood,17 avenue se
+REGULAR,87,17 Avenue SE / Applewood,applewood
+REGULAR,126,Braeside,braeside
+BRT,302,BRT Southeast,brt southeast
+REGULAR,99,Acadia/Oakridge,acadia
+REGULAR,99,Acadia/Oakridge,oakridge
+MAX,303,MAX Orange,max orange
+REGULAR,142,Panorama Express,panorama express
+REGULAR,105,Dalhousie-Lions Park,dalhousie
+REGULAR,105,Dalhousie-Lions Park,lions park
+REGULAR,146,Beddington,beddington
+REGULAR,48,Rundle,rundle
+REGULAR,178,Sundance/Chaparral,sundance
+REGULAR,178,Sundance/Chaparral,chaparral
+REGULAR,168,Walden - Legacy CW,walden
+REGULAR,168,Walden - Legacy CW,legacy cw
+REGULAR,128,Cornerstone/ Redstone,cornerstone
+REGULAR,128,Cornerstone/ Redstone, redstone
+REGULAR,19,16 Avenue North,16 avenue north
+REGULAR,164,Aspen Woods,aspen woods
+REGULAR,157,Saddletowne-Stoney Industrial,saddletowne
+REGULAR,157,Saddletowne-Stoney Industrial,stoney industrial
+REGULAR,20,Northmount / Heritage,northmount
+REGULAR,20,Northmount / Heritage,heritage
+REGULAR,31,Dalhousie / Lions Park,dalhousie
+REGULAR,31,Dalhousie / Lions Park,lions park
+REGULAR,4,Huntington,huntington
+REGULAR,103,McKenzie Express,mckenzie express
+REGULAR,23,52 Street East,52 street east
+REGULAR,95,Palliser,palliser
+REGULAR,70,Valley Ridge Express,valley ridge express
+REGULAR,36,Riverbend,riverbend
+REGULAR,2,Mt. Pleasant / Killarney 17 Ave.,mt pleasant
+REGULAR,2,Mt. Pleasant / Killarney 17 Ave.,killarney 17 ave
+REGULAR,439,Discovery Ridge,discovery ridge
+REGULAR,55,Falconridge,falconridge
+REGULAR,38,Brentwood / Temple,brentwood
+REGULAR,38,Brentwood / Temple,temple
+REGULAR,92,McKenzie Towne,mckenzie towne
+REGULAR,100,North Pointe/ Airport/ McKnight,north pointe
+REGULAR,100,North Pointe/ Airport/ McKnight,airport
+REGULAR,100,North Pointe/ Airport/ McKnight,mcknight
+REGULAR,1,Bowness - Forest Lawn,bowness
+REGULAR,1,Bowness - Forest Lawn,forest lawn
+REGULAR,116,Coventry Hills Express,coventry hills express
+REGULAR,14,Bridlewood/Cranston,bridlewood
+REGULAR,14,Bridlewood/Cranston,cranston
+REGULAR,104,Sunnyside / University of Calgary,sunnyside
+REGULAR,104,Sunnyside / University of Calgary,university of calgary
+REGULAR,120,North Silver Springs,north silver springs
+REGULAR,85,Martin Crossing,martin crossing
+REGULAR,33,Vista Heights/Rundle,vista heights
+REGULAR,33,Vista Heights/Rundle,rundle
+REGULAR,145,Skyview Ranch/ Redstone,skyview ranch
+REGULAR,145,Skyview Ranch/ Redstone,redstone
+REGULAR,56,Woodbine,woodbine
+REGULAR,65,Market Mall-Downtown West,market mall
+REGULAR,65,Market Mall-Downtown West,downtown west
+LRT,201,Red Line,red line
+REGULAR,76,Hawkwood,hawkwood
+REGULAR,148,Great Plains,great plains
+REGULAR,134,South Silver Springs,south silver springs
+REGULAR,67,Memorial Drive,memorial drive
+REGULAR,93,Coach Hill / Westbrook,coach hill
+REGULAR,93,Coach Hill / Westbrook,westbrook
+REGULAR,11,Southwest Loop,southwest loop
+REGULAR,154,Hamptons,hamptons
+REGULAR,124,Evanston,evanston
+REGULAR,52,Evergreen/Somerset,evergreen
+REGULAR,52,Evergreen/Somerset,somerset
+REGULAR,151,New Brighton Express,new brighton express
+REGULAR,115,Symons Valley Parkway,symons valley parkway
+REGULAR,119,Freeport,freeport
+REGULAR,17,Renfrew/Ramsay,renfrew
+REGULAR,17,Renfrew/Ramsay,ramsay
+REGULAR,5,North Haven,north haven
+REGULAR,64,MacEwan Express,macewan express
+REGULAR,113,North Ranchlands-Scenic Acres,scenic acres
+REGULAR,113,North Ranchlands-Scenic Acres,north ranchlands
+REGULAR,109,Harvest Hills Express,harvest hills express
+REGULAR,440,Chateau Estates / Franklin,chateau estates
+REGULAR,440,Chateau Estates / Franklin,franklin
+REGULAR,42,Marlborough,marlborough
+REGULAR,7,Marda Loop,marda loop
+REGULAR,102,Douglasdale Express,douglasdale express
+REGULAR,110,Douglas Glen Express,douglas glen express
+REGULAR,138,Citadel,citadel
+REGULAR,125,Cedarbrae,cedarbrae
+REGULAR,8,North Pointe / Foothills Medical Centre,north pointe
+REGULAR,8,North Pointe / Foothills Medical Centre,foothills medical centre
+BRT,300,BRT Airport / City Centre,brt airport
+BRT,300,BRT Airport / City Centre,city centre
+REGULAR,90,Bridgeland / University of Calgary,bridgeland
+REGULAR,90,Bridgeland / University of Calgary,university of calgary
+REGULAR,149,Point Trotter,point trotter
+REGULAR,96,McKenzie,mckenzie
+REGULAR,15,Millrise,millrise
+MAX,304,MAX Yellow,max yellow
+REGULAR,408,Valley Ridge,valley ridge
+REGULAR,444,Chaparral Valley/ Walden,chaparral valley
+REGULAR,444,Chaparral Valley/ Walden,walden
+REGULAR,49,Forest Heights,forest heights
+REGULAR,88,Harvest Hills,harvest hills
+REGULAR,169,Rocky Ridge,rocky ridge
+REGULAR,454,Springbank Hill,springbank hill
+REGULAR,86,Coventry Hills,coventry hills
+REGULAR,449,Eau Claire - Parkhill,parkhill
+REGULAR,449,Eau Claire - Parkhill,eau claire
+REGULAR,30,Highfield Industrial,highfield industrial
+REGULAR,158,Royal Oak,royal oak
+REGULAR,91,Foothills Medical Centre,foothills medical centre
+REGULAR,61,Martindale,martindale
+REGULAR,159,Saddlebrook,saddlebrook
+REGULAR,98,Cougar Ridge,cougar ridge
+REGULAR,155,West Dover / Forest Lawn,west dover
+REGULAR,155,West Dover / Forest Lawn,forest lawn
+REGULAR,152,New Brighton,new brighton
+REGULAR,167,Walden - Legacy CCW,walden
+REGULAR,167,Walden - Legacy CCW,legacy ccw
+REGULAR,34,Pineridge,pineridge
+REGULAR,27,Willowglen,willowglen
+REGULAR,60,Taradale,taradale
+REGULAR,135,36 Street SE / Erin Woods,36 street se
+REGULAR,135,36 Street SE / Erin Woods,erin woods
+REGULAR,82,Nolan Hill,nolan hill
+REGULAR,35,Bonavista/Canyon Meadows,bonavista
+REGULAR,35,Bonavista/Canyon Meadows,canyon meadows
+REGULAR,21,Castleridge,castleridge
+REGULAR,69,Deerfoot Centre,deerfoot centre
+REGULAR,114,Panorama/Country Hills,panorama
+REGULAR,114,Panorama/Country Hills,country hills
+REGULAR,97,South Ranchlands-Scenic Acres,scenic acres
+REGULAR,97,South Ranchlands-Scenic Acres,south ranchlands
+REGULAR,111,Old Banff Coach Road,old banff coach road
+REGULAR,89,Lions Park,lions park
+REGULAR,29,Queensland,queensland
+REGULAR,123,Sage Hill / North Pointe,sage hill
+REGULAR,123,Sage Hill / North Pointe,north pointe
+REGULAR,40,Crowfoot/North Hill,crowfoot
+REGULAR,40,Crowfoot/North Hill,north hill
+REGULAR,77,Edgemont,edgemont
+REGULAR,161,North Pointe - Stoney Industrial,stoney industrial
+REGULAR,161,North Pointe - Stoney Industrial,north pointe
+REGULAR,421,Panatella,panatella
+REGULAR,147,Starfield,starfield
+REGULAR,299,Arbour Lake,arbour lake
+REGULAR,68,68 Street East,68 street east
+REGULAR,54,Edgevalley,edgevalley
+REGULAR,10,City Hall - Southcentre,city hall
+REGULAR,10,City Hall - Southcentre,southcentre
+REGULAR,37,Heritage / Canyon Meadows,heritage
+REGULAR,37,Heritage / Canyon Meadows,canyon meadows
+REGULAR,94,Strathcona / Westbrook,strathcona
+REGULAR,94,Strathcona / Westbrook,westbrook
+REGULAR,71,Taradale,taradale
+REGULAR,127,Maryvale/ Franklin Industrial,maryvale
+REGULAR,127,Maryvale/ Franklin Industrial,franklin industrial
+REGULAR,44,Deer Ridge / Avenida,deer ridge
+REGULAR,44,Deer Ridge / Avenida,avenida
+SPECIAL,555,Dashmesh Centre,dashmesh centre
+REGULAR,53,Brentwood-Greenwood,greenwood
+REGULAR,53,Brentwood-Greenwood,brentwood
+REGULAR,57,Monterey Park/ McCall Way,monterey park
+REGULAR,57,Monterey Park/ McCall Way,mccall way
+REGULAR,83,Parkland,parkland
+REGULAR,174,Tuscany,tuscany
+REGULAR,59,Savanna,savanna
+REGULAR,156,Aspen Woods,aspen woods
+REGULAR,46,Beddington,beddington
+REGULAR,28,Deer Run,deer run
+REGULAR,81,Macleod Trail,macleod trail
+REGULAR,101,Inglewood,inglewood
+MAX,307,MAX Purple,max purple
